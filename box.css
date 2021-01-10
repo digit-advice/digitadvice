@@ -1,4 +1,9 @@
 
+// * This software is the property of digitadvice.in and is protected by copyright law it is NOT freeware.
+
+// Any unauthorized use of this software without permission is a violation of this software will be prosecuted by civil and criminal law.
+
+<!- container ->
 
 #digit-container
 {
@@ -10,6 +15,9 @@ border-width:2px;
 border-color:#e8e8e8;
 padding:45px 1px 45px 1px
 }
+
+<!- block ->
+
 .digit-block
 {
 width:300px;
@@ -18,6 +26,8 @@ display:inline-block;
 vertical-align:text-top;
 text-align:center
 }
+
+<!- container css ->
 
 .digit-css
 {
@@ -47,6 +57,8 @@ border-bottom:2px solid rgba(245,245,245,0)
 {
 text-decoration:none;color:#263745
 }
+
+<!- button  ->
 
 .digit-button {
 color:#6D2B7C!important;
